@@ -11,7 +11,7 @@ Connect with me at:
 ✉️ gui.99.azeredo@gmail.com
 
 <div>
-<a href="https://github.com/azeredo-99">
+<a href="https://github.com/azeredo-9">
 <img height="165em" src="https://github-readme-stats.vercel.app/api?username=azeredo-99&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/> 
 <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=azeredo-99&layout=compact&langs_count=16&theme=dracula"/>
 </div>
