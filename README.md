@@ -15,6 +15,7 @@ Connect with me at:
 <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=azeredo-99&layout=compact&langs_count=16&theme=dracula"/>
   <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=azeredo-99&show_icons=true&count_private=true&hide=prs&theme=tokyonight" alt="Guilherme Azeredo's GitHub Stats" />
+    <div align="center">
 </div>
 </div>
   
