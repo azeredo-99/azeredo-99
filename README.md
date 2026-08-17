@@ -148,18 +148,6 @@ You can find all my projects in my repositories.
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=azeredo-99&layout=compact&langs_count=8&theme=dracula"/>
-
-<img height="165em" src="https://github-readme-stats.vercel.app/api?username=azeredo-99&show_icons=true&count_private=true&hide=prs&theme=tokyonight"/>
-
-</div>
-
----
-
 ## 📫 Contact
 
 <div align="center">
