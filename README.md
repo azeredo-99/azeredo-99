@@ -1,40 +1,175 @@
-## Hi! I am Guilherme Azeredo 👋
+# Hi! I'm Guilherme Azeredo 👋
 
+### Junior Software Developer | Web Development | Data & AI
 
-<div>
-Connect with me at:
-  
-<a href="https://instagram.com/azeredo_99" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style-for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-<a href="https://discord.gg/azeredo#7994" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style-for-the-badge&logo=discord&logoColor-white" target="_blank"></a>
-<a href="https://www.linkedin.com/in/gui-azeredo-a11bb0254/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style-for-the-badge&logo-linkedin&logoColor-white" target="_blank"></a>
-</div>
-✉️ gui.99.azeredo@gmail.com
+I'm a Junior Software Developer with a degree in Computer Systems Engineering.
 
-##
+I enjoy building practical software, exploring new technologies and using
+programming and data to solve real-world problems.
+
+---
+
+## 💼 Experience
+
+### Software Development Intern — Ediprinter
+
+During my internship, I worked on a centralized logging and error monitoring
+platform designed to improve application observability and simplify the
+analysis of system logs and errors.
+
+**Technologies & Tools**
+
+- Elasticsearch
+- Kibana
+- Logstash
+- Docker
+- Observability
+- Log Management
+
+---
+
+## 🛠️ Technologies
+
+### Programming Languages
+
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" alt="JavaScript"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" alt="TypeScript"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" alt="Python"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40" alt="C"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="40" alt="C#"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" width="40" alt="Kotlin"/>
+</p>
+
+### Web & Backend
+
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" alt="React"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" alt="Node.js"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="40" alt="Express"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" alt="HTML5"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" alt="CSS3"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="40" alt="Bootstrap"/>
+</p>
+
+### Data & Databases
+
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="40" alt="Pandas"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" alt="MySQL"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="40" alt="SQL Server"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="40" alt="SQLite"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/duckdb/duckdb-original.svg" width="40" alt="DuckDB"/>
+</p>
+
+### Observability & Infrastructure
+
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/elasticsearch/elasticsearch-original.svg" width="40" alt="Elasticsearch"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" alt="Docker"/>
+</p>
+
+**Elasticsearch · Kibana · Logstash · Docker · Git**
+
+---
+
+## ⭐ Featured Projects
+
+### 🧤 Goalkeeper Scouting
+
+A data-driven football scouting platform focused on goalkeeper recruitment.
+
+The application combines performance and market data to allow users to
+analyse, compare and identify similar goalkeeper profiles.
+
+**Technologies:** Python · Pandas · Streamlit · DuckDB · NumPy · StatsBomb Open Data
+
+🔗 [View Project](https://github.com/azeredo-99/Goalkeeper-Scouting)
+
+---
+
+### 🏛️ Museum Platform
+
+Full-stack web application developed to provide an interactive platform
+for exploring museum content and artifacts.
+
+**Technologies:** JavaScript · Node.js · HTML · CSS · SQL
+
+🔗 [View Project](https://github.com/azeredo-99/Museum-PWeb)
+
+---
+
+### 📱 Android Chat Application
+
+Android application developed with Kotlin and Firebase, focused on user
+authentication and real-time communication.
+
+**Technologies:** Kotlin · Android · Firebase
+
+🔗 [View Project](https://github.com/azeredo-99/PDM-GuilhermeAzeredo)
+
+---
+
+### 🛒 E-Commerce Application
+
+Desktop e-commerce application developed using C# and object-oriented
+programming principles.
+
+**Technologies:** C# · .NET · OOP
+
+🔗 [View Project](https://github.com/azeredo-99/ECommerceApp)
+
+---
+
+### 🏒 NHL Data Project
+
+Data analysis project focused on exploring and analysing NHL-related data.
+
+**Technologies:** Python · Data Analysis · Pandas
+
+🔗 [View Project](https://github.com/azeredo-99/NHLProject)
+
+---
+
+## 📚 Other Projects
+
+I also have several academic projects covering areas such as:
+
+- Web development
+- Mobile development
+- Object-oriented programming
+- Databases
+- Data structures and algorithms
+- Programming languages and parsers
+- Data analysis
+- Software engineering
+
+You can find all my projects in my repositories.
+
+---
+
+## 📊 GitHub Stats
 
 <div align="center">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=azeredo-99&layout=compact&langs_count=8&theme=dracula"/>
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=azeredo-99&show_icons=true&count_private=true&hide=prs&theme=tokyonight"/>
-</div>
-  
-##
 
-<div style="display: inline_block">
-  <img align="center" alt="Gui-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"> 
-  <img align="center" alt="Gui-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg"> 
-  <img align="center" alt="Gui-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"> 
-  <img align="center" alt="Gui-HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg">
-  <img align="center" alt="Gui-CSS" height="30" width="40"src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"> 
-  <img align="center" alt="Gui-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"> 
-  <img align="center" title="C" alt="Gui-C" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
-  <img align="center" alt="Gui-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="center" title="Git" alt="Gui-Git" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" />
-  <img align="center" title="JQuery" alt="Gui-JQuery" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" />
-  <img align="center" title="Bootstrap" alt="Gui-Bootstrap" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
-  <img align="center" title="MySQL" alt="Gui-MySQL" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
-  <img align="center" title="MSSQL" alt="Gui-MSSQL" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg"/>
-  <img align="center" title="SQLite" alt="Gui-SQLite" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" />
-  <img align="center" title="NodeJS" alt="Gui-NodeJS" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
- 
+<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=azeredo-99&layout=compact&langs_count=8&theme=dracula"/>
+
+<img height="165em" src="https://github-readme-stats.vercel.app/api?username=azeredo-99&show_icons=true&count_private=true&hide=prs&theme=tokyonight"/>
+
 </div>
 
+---
+
+## 📫 Contact
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/gui-azeredo-a11bb0254/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:gui.99.azeredo@gmail.com">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+</div>
