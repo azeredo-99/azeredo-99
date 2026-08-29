@@ -121,16 +121,6 @@ programming principles.
 
 ---
 
-### 🏒 NHL Data Project
-
-Data analysis project focused on exploring and analysing NHL-related data.
-
-**Technologies:** Python · Data Analysis · Pandas
-
-🔗 [View Project](https://github.com/azeredo-99/NHLProject)
-
----
-
 ## 📚 Other Projects
 
 I also have several academic projects covering areas such as:
