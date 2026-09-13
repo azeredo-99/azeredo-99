@@ -84,7 +84,7 @@ analyse, compare and identify similar goalkeeper profiles.
 
 **Technologies:** Python · Pandas · Streamlit · DuckDB · NumPy · StatsBomb Open Data
 
-🔗 [View Project](https://github.com/azeredo-99/Goalkeeper-Scouting)
+🔗 [View Project](https://github.com/azeredo-99/GoalkeeperScouting)
 
 ---
 
