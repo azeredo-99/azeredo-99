@@ -95,7 +95,7 @@ for exploring museum content and artifacts.
 
 **Technologies:** JavaScript · Node.js · HTML · CSS · SQL
 
-🔗 [View Project](https://github.com/azeredo-99/Museum-PWeb)
+🔗 [View Project](https://github.com/azeredo-99/Artifacts_Emporium)
 
 ---
 
@@ -118,6 +118,18 @@ programming principles.
 **Technologies:** C# · .NET · OOP
 
 🔗 [View Project](https://github.com/azeredo-99/ECommerceApp)
+
+---
+
+### 🍊 Orange Sorting Vision
+
+Real-time computer vision pipeline that counts, measures and grades oranges
+from video, built on a hand-written HSV segmentation, morphology and
+blob-tracking pipeline rather than off-the-shelf detection APIs.
+
+**Technologies:** C · C++ · OpenCV
+
+🔗 [View Project](https://github.com/azeredo-99/orange-sorting-vision)
 
 ---
 
