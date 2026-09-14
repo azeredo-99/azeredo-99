@@ -99,12 +99,14 @@ for exploring museum content and artifacts.
 
 ---
 
-### 📱 Android Chat Application
+### 📱 Android Coursework
 
-Android application developed with Kotlin and Firebase, focused on user
-authentication and real-time communication.
+Four standalone Android apps built with Kotlin and Jetpack Compose. The deep
+one is a task manager with Firebase-backed login and real-time cloud sync on
+an MVVM architecture; the others cover a news reader with local favourites
+and two earlier Compose exercises.
 
-**Technologies:** Kotlin · Android · Firebase
+**Technologies:** Kotlin · Jetpack Compose · Firebase · Room · Hilt
 
 🔗 [View Project](https://github.com/azeredo-99/PDM-GuilhermeAzeredo)
 
@@ -154,7 +156,7 @@ You can find all my projects in my repositories.
 
 <div align="center">
 
-<a href="https://www.linkedin.com/in/gui-azeredo-a11bb0254/" target="_blank">
+<a href="https://www.linkedin.com/in/guilherme-azeredo-a11bb0254/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
