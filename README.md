@@ -1,30 +1,23 @@
 # Hi! I'm Guilherme Azeredo 👋
 
-### Junior Software Developer | Web Development | Data & AI
+### Junior Backend Developer | C# / .NET · Python
 
-I'm a Junior Software Developer with a degree in Computer Systems Engineering.
-
-I enjoy building practical software, exploring new technologies and using
-programming and data to solve real-world problems.
+Computer Systems Engineering graduate (IPCA, 2026) based in the Porto area.
+I build tested backend services and care about what happens after deploy:
+logging, monitoring and data you can trust.
 
 ---
 
 ## 💼 Experience
 
-### Software Development Intern — Ediprinter
+### Software Developer Intern — EdiPrinter (Feb – Jun 2025)
 
-During my internship, I worked on a centralized logging and error monitoring
-platform designed to improve application observability and simplify the
-analysis of system logs and errors.
-
-**Technologies & Tools**
-
-- Elasticsearch
-- Kibana
-- Logstash
-- Docker
-- Observability
-- Log Management
+- Implemented structured logging with **Serilog** in the company's production
+  **.NET** applications, with log enrichment and centralised exception handling.
+- Built a centralised log monitoring platform on the **Elastic Stack**
+  (Elasticsearch cluster, Kibana, Filebeat) with ILM retention policies.
+- Added uptime and performance monitoring with **Heartbeat** and **Elastic APM**,
+  packaged with **Docker Compose**.
 
 ---
 
@@ -49,7 +42,7 @@ analysis of system logs and errors.
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="40" alt="Express"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" alt="HTML5"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" alt="CSS3"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="40" alt="Bootstrap"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="40" alt="FastAPI"/>
 </p>
 
 ### Data & Databases
@@ -59,7 +52,7 @@ analysis of system logs and errors.
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" alt="MySQL"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="40" alt="SQL Server"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="40" alt="SQLite"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/duckdb/duckdb-original.svg" width="40" alt="DuckDB"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" alt="PostgreSQL"/>
 </p>
 
 ### Observability & Infrastructure
@@ -69,7 +62,7 @@ analysis of system logs and errors.
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" alt="Docker"/>
 </p>
 
-**Elasticsearch · Kibana · Logstash · Docker · Git**
+**Elasticsearch · Kibana · Filebeat · Elastic APM · Serilog · Docker · Git**
 
 ---
 
@@ -77,14 +70,27 @@ analysis of system logs and errors.
 
 ### 🧤 Goalkeeper Scouting
 
-A data-driven football scouting platform focused on goalkeeper recruitment.
+Full-stack scouting platform built from raw StatsBomb event data: ingestion
+pipeline, REST API and React UI covering 480 goalkeepers across 18
+competition/season contexts. Peer-group percentile benchmarking, similarity
+search and scout-defined matching profiles — no black-box score.
 
-The application combines performance and market data to allow users to
-analyse, compare and identify similar goalkeeper profiles.
-
-**Technologies:** Python · Pandas · Streamlit · DuckDB · NumPy · StatsBomb Open Data
+**Technologies:** Python · FastAPI · PostgreSQL · SQLAlchemy/Alembic · pandas ·
+React · TypeScript · pytest (289 tests)
 
 🔗 [View Project](https://github.com/azeredo-99/GoalkeeperScouting)
+
+---
+
+### 🗂️ Back-Office Management Platform (team project)
+
+Role-based REST API for invoices, orders, expenses and requests, with an
+Angular dashboard. Knex migrations, JWT auth, PDF generation and 128 Jest +
+Supertest integration tests.
+
+**Technologies:** Node.js · Express · Knex · PostgreSQL · Jest · Angular
+
+🔗 [View Project](https://github.com/azeredo-99/PDS_Project)
 
 ---
 
@@ -114,10 +120,9 @@ and two earlier Compose exercises.
 
 ### 🛒 E-Commerce Application
 
-Desktop e-commerce application developed using C# and object-oriented
-programming principles.
+Object-oriented .NET 8 application modelling products, customers and orders.
 
-**Technologies:** C# · .NET · OOP
+**Technologies:** C# · .NET 8 · OOP
 
 🔗 [View Project](https://github.com/azeredo-99/ECommerceApp)
 
